@@ -1,0 +1,1709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: News Box\n"
+"POT-Creation-Date: 2015-03-14 19:10+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: LCweb\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_menu.php:12 ../builder.php:8
+msgid "Manage Boxes"
+msgstr ""
+
+#: ../admin_menu.php:21 ../admin_menu.php:149 ../admin_menu.php:163
+msgid "QN Categories"
+msgstr ""
+
+#: ../admin_menu.php:22 ../ajax.php:163 ../settings.php:7
+msgid "Settings"
+msgstr ""
+
+#: ../admin_menu.php:42 ../admin_menu.php:56
+msgid "Boxes"
+msgstr ""
+
+#: ../admin_menu.php:43
+msgid "Box"
+msgstr ""
+
+#: ../admin_menu.php:44
+msgid "Search Boxes"
+msgstr ""
+
+#: ../admin_menu.php:45
+msgid "Popular Boxes"
+msgstr ""
+
+#: ../admin_menu.php:46
+msgid "All Boxes"
+msgstr ""
+
+#: ../admin_menu.php:47
+msgid "Parent Box"
+msgstr ""
+
+#: ../admin_menu.php:48
+msgid "Parent Box:"
+msgstr ""
+
+#: ../admin_menu.php:49
+msgid "Edit Box"
+msgstr ""
+
+#: ../admin_menu.php:50
+msgid "Update Box"
+msgstr ""
+
+#: ../admin_menu.php:51
+msgid "Add New Box"
+msgstr ""
+
+#: ../admin_menu.php:52
+msgid "New Box"
+msgstr ""
+
+#: ../admin_menu.php:53
+msgid "Separate boxes with commas"
+msgstr ""
+
+#: ../admin_menu.php:54
+msgid "Add or remove Boxes"
+msgstr ""
+
+#: ../admin_menu.php:55
+msgid "Choose from most used Boxes"
+msgstr ""
+
+#: ../admin_menu.php:82 ../admin_menu.php:93
+msgid "Quick News"
+msgstr ""
+
+#: ../admin_menu.php:83
+msgid "News"
+msgstr ""
+
+#: ../admin_menu.php:84
+msgid "Add New"
+msgstr ""
+
+#: ../admin_menu.php:85
+msgid "Add New News"
+msgstr ""
+
+#: ../admin_menu.php:86
+msgid "Edit News"
+msgstr ""
+
+#: ../admin_menu.php:87
+msgid "New News"
+msgstr ""
+
+#: ../admin_menu.php:88
+msgid "View News"
+msgstr ""
+
+#: ../admin_menu.php:89
+msgid "Search News"
+msgstr ""
+
+#: ../admin_menu.php:90
+msgid "No news found"
+msgstr ""
+
+#: ../admin_menu.php:91
+msgid "No news found in Trash"
+msgstr ""
+
+#: ../admin_menu.php:92
+msgid "Parent News:"
+msgstr ""
+
+#: ../admin_menu.php:122 ../admin_menu.php:123 ../admin_menu.php:125
+msgid "News updated"
+msgstr ""
+
+#: ../admin_menu.php:124
+msgid "News deleted"
+msgstr ""
+
+#: ../admin_menu.php:127
+#, php-format
+msgid "News restored to revision from %s"
+msgstr ""
+
+#: ../admin_menu.php:128
+msgid "News published"
+msgstr ""
+
+#: ../admin_menu.php:129
+msgid "News saved"
+msgstr ""
+
+#: ../admin_menu.php:130
+msgid "News submitted"
+msgstr ""
+
+#: ../admin_menu.php:131
+#, php-format
+msgid "News scheduled for: <strong>%1$s</strong>"
+msgstr ""
+
+#: ../admin_menu.php:131
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../admin_menu.php:132
+msgid "News draft updated"
+msgstr ""
+
+#: ../admin_menu.php:150
+msgid "QN Category"
+msgstr ""
+
+#: ../admin_menu.php:151
+msgid "Search QN Categories"
+msgstr ""
+
+#: ../admin_menu.php:152
+msgid "Popular QN Categories"
+msgstr ""
+
+#: ../admin_menu.php:153
+msgid "All QN Categories"
+msgstr ""
+
+#: ../admin_menu.php:154
+msgid "Parent QN Category"
+msgstr ""
+
+#: ../admin_menu.php:155
+msgid "Parent QN Category:"
+msgstr ""
+
+#: ../admin_menu.php:156
+msgid "Edit QN Category"
+msgstr ""
+
+#: ../admin_menu.php:157
+msgid "Update QN Category"
+msgstr ""
+
+#: ../admin_menu.php:158
+msgid "Add New QN Category"
+msgstr ""
+
+#: ../admin_menu.php:159
+msgid "New QN Category"
+msgstr ""
+
+#: ../admin_menu.php:160
+msgid "Separate news categories with commas"
+msgstr ""
+
+#: ../admin_menu.php:161
+msgid "Add or remove news categories"
+msgstr ""
+
+#: ../admin_menu.php:162
+msgid "Choose from the most used news categories"
+msgstr ""
+
+#: ../ajax.php:124
+msgid "News Sources"
+msgstr ""
+
+#: ../ajax.php:129
+msgid "Add new source"
+msgstr ""
+
+#: ../ajax.php:137 ../builder.php:22
+msgid "Add"
+msgstr ""
+
+#: ../ajax.php:168
+msgid "Initial mode"
+msgstr ""
+
+#: ../ajax.php:182
+msgid "Expanded mode"
+msgstr ""
+
+#: ../ajax.php:197
+msgid "Navigation / slideshow"
+msgstr ""
+
+#: ../ajax.php:257
+msgid "Box ID"
+msgstr ""
+
+#: ../ajax.php:258 ../functions.php:663
+msgid "News to keep"
+msgstr ""
+
+#: ../ajax.php:259
+msgid "News per time"
+msgstr ""
+
+#: ../ajax.php:260 ../functions.php:681
+msgid "Box height"
+msgstr ""
+
+#: ../ajax.php:268 ../functions.php:733
+msgid "Image's height <small>(for horizontal layout)</small>"
+msgstr ""
+
+#: ../ajax.php:269 ../functions.php:743
+msgid "Image's width <small>(for vertical layout)</small>"
+msgstr ""
+
+#: ../ajax.php:272 ../functions.php:763
+msgid "Date format"
+msgstr ""
+
+#: ../ajax.php:275 ../functions.php:776
+msgid "\"Read more\""
+msgstr ""
+
+#: ../ajax.php:275 ../functions.php:776
+msgid "button's text"
+msgstr ""
+
+#: ../ajax.php:286 ../functions.php:839
+msgid "Animation time"
+msgstr ""
+
+#: ../ajax.php:288 ../functions.php:848
+msgid "Slideshow interval"
+msgstr ""
+
+#: ../ajax.php:303 ../builder.php:241
+msgid "A news source is needed"
+msgstr ""
+
+#: ../builder.php:19
+msgid "Add Box"
+msgstr ""
+
+#: ../builder.php:27 ../builder.php:146 ../builder.php:151 ../builder.php:154
+msgid "Boxes List"
+msgstr ""
+
+#: ../builder.php:32
+msgid "Save box"
+msgstr ""
+
+#: ../builder.php:35
+msgid "Preview"
+msgstr ""
+
+#: ../builder.php:47 ../builder.php:183 ../tinymce_btn.php:40
+#: ../tinymce_btn.php:41
+msgid "Select a box"
+msgstr ""
+
+#: ../builder.php:91
+msgid "Box added"
+msgstr ""
+
+#: ../builder.php:145 ../builder.php:194
+msgid "No existing boxes"
+msgstr ""
+
+#: ../builder.php:151
+msgid "pag"
+msgstr ""
+
+#: ../builder.php:151
+msgid "of"
+msgstr ""
+
+#: ../builder.php:171
+msgid "Delete definitively the box?"
+msgstr ""
+
+#: ../builder.php:248
+msgid "One or more mandatory fields are empty"
+msgstr ""
+
+#: ../builder.php:268
+msgid "Overlay saved"
+msgstr ""
+
+#: ../builder.php:309
+msgid "Remove news source?"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:533
+msgid "File doesn&#8217;t exist?"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:571
+msgid "File is not an image."
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:577
+msgid "Could not read image size."
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:906
+msgid ""
+"<strong>ERROR:</strong> There was an error connecting to the server, Please "
+"verify the settings are correct."
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:931
+msgid "Confirm the cache file deletion?"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:959
+msgid "Clean cache"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:961
+msgid "Connection Information"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:962
+msgid "Your system is set up properly"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1062
+msgid "Error creating the cache directory"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1077
+msgid "Error creating the test file"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1198
+msgid "Cache folder doesn't exists"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1214
+msgid "01 - WP_filesystem - connection failed"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1231
+msgid "Filename or contents are missing"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1243 ../classes/easy_wp_thumbs.php:1248
+msgid "02 - WP_filesystem - connection failed"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1257
+msgid "Error creating the file"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1335
+msgid "WP image not found or invalid image path"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1347
+msgid "File extension not supported"
+msgstr ""
+
+#: ../classes/easy_wp_thumbs.php:1707
+msgid "thumb creation failed"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:327
+msgid "minimum value is"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:340
+msgid "maximum value is"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:353
+msgid "minimum"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:353
+#: ../classes/simple_form_validator.php:366
+msgid "characters allowed"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:366
+msgid "maximum"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:379
+msgid "has to be long"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:379
+msgid "characters"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:423
+msgid "Select"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:423
+msgid "options"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:435
+msgid "Maximum"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:435
+msgid "options allowed"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:511
+msgid "are required"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:511
+msgid "is required"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:515
+msgid "are not valid integers"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:515
+msgid "is not a valid integer"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:519
+msgid "are not valid floating numbers"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:519
+msgid "is not a valid floating number"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:523
+msgid "are not valid e-mail addresses"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:523
+msgid "is not a valid e-mail address"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:527
+msgid "are not valid dates"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:527
+msgid "is not a valid date"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:531
+msgid "are not valid times"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:531
+msgid "is not a valid time"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:535
+msgid "are not valid urls"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:535
+msgid "is not a valid url"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:539
+msgid "are not valid hexadecimal colors"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:539
+msgid "is not a valid hexadecimal color"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:543
+msgid "are not valid IP addresses"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:543
+msgid "is not a valid IP address"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:547
+msgid "are not valid ZIP codes"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:547
+msgid "is not a valid ZIP code"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:551
+msgid "are not valid telephone numbers"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:551
+msgid "is not a valid telephone number"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:554
+msgid "invalid data inserted"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:558
+msgid "values are not between the allowed"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:558
+msgid "value is not between the allowed"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:562
+msgid "values are between the forbidden"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:562
+msgid "values is between the forbidden"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:565
+msgid "the value doesn't match"
+msgstr ""
+
+#: ../classes/simple_form_validator.php:568
+msgid "file size is wrong"
+msgstr ""
+
+#: ../date_format_helper.php:12
+msgid "HTML code and other textual elements can be placed between placeholders"
+msgstr ""
+
+#: ../date_format_helper.php:15
+msgid "Placeholder"
+msgstr ""
+
+#: ../date_format_helper.php:16
+msgid "Description"
+msgstr ""
+
+#: ../date_format_helper.php:17
+msgid "Example"
+msgstr ""
+
+#: ../date_format_helper.php:22
+msgid "seconds (with leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:27
+msgid "minutes (with leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:33
+msgid "hours with AM/PM"
+msgstr ""
+
+#: ../date_format_helper.php:38
+msgid "hours (with leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:43
+msgid "hours (without leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:49
+msgid "day with Monday-Sunday format"
+msgstr ""
+
+#: ../date_format_helper.php:50 ../news-box.php:142
+msgid "Saturday"
+msgstr ""
+
+#: ../date_format_helper.php:54
+msgid "day with Mon-Sun format"
+msgstr ""
+
+#: ../date_format_helper.php:55 ../news-box.php:141
+msgid "Sat"
+msgstr ""
+
+#: ../date_format_helper.php:59 ../date_format_helper.php:80
+msgid "day number (with leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:64 ../date_format_helper.php:85
+msgid "day number (without leading zeros)"
+msgstr ""
+
+#: ../date_format_helper.php:70
+msgid "month with January-December format"
+msgstr ""
+
+#: ../date_format_helper.php:71 ../news-box.php:144
+msgid "July"
+msgstr ""
+
+#: ../date_format_helper.php:75
+msgid "day with Jan-Dec format"
+msgstr ""
+
+#: ../date_format_helper.php:76 ../news-box.php:143
+msgid "Jul"
+msgstr ""
+
+#: ../date_format_helper.php:91
+msgid "year in four digits format"
+msgstr ""
+
+#: ../date_format_helper.php:96
+msgid "year in two digits format"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Wordpress category"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Quick News category"
+msgstr ""
+
+#: ../functions.php:290
+msgid "RSS Feed"
+msgstr ""
+
+#: ../functions.php:291
+msgid "Facebook page"
+msgstr ""
+
+#: ../functions.php:292
+msgid "Google+"
+msgstr ""
+
+#: ../functions.php:293
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:294
+msgid "Youtube"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:296
+msgid "Soundcloud"
+msgstr ""
+
+#: ../functions.php:297
+msgid "Tumblr"
+msgstr ""
+
+#: ../functions.php:302
+msgid "WooCommerce category"
+msgstr ""
+
+#: ../functions.php:321 ../functions.php:627
+msgid "hidden"
+msgstr ""
+
+#: ../functions.php:322
+msgid "on sides"
+msgstr ""
+
+#: ../functions.php:323
+msgid "top-left"
+msgstr ""
+
+#: ../functions.php:324
+msgid "top-center"
+msgstr ""
+
+#: ../functions.php:325
+msgid "top-right"
+msgstr ""
+
+#: ../functions.php:326
+msgid "bottom-left"
+msgstr ""
+
+#: ../functions.php:327
+msgid "bottom-center"
+msgstr ""
+
+#: ../functions.php:328
+msgid "bottom-right"
+msgstr ""
+
+#: ../functions.php:364
+msgid "Posts category"
+msgstr ""
+
+#: ../functions.php:365 ../functions.php:378 ../functions.php:392
+msgid "Select a category"
+msgstr ""
+
+#: ../functions.php:366 ../functions.php:379 ../functions.php:393
+#: ../functions.php:411
+msgid "All"
+msgstr ""
+
+#: ../functions.php:377
+msgid "News category"
+msgstr ""
+
+#: ../functions.php:391
+msgid "Products category"
+msgstr ""
+
+#: ../functions.php:410
+msgid "Select a term"
+msgstr ""
+
+#: ../functions.php:424
+msgid "RSS feed URL"
+msgstr ""
+
+#: ../functions.php:425
+msgid "Facebook page ID"
+msgstr ""
+
+#: ../functions.php:425
+msgid "get it"
+msgstr ""
+
+#: ../functions.php:426
+msgid "Profile URL"
+msgstr ""
+
+#: ../functions.php:427
+msgid "Profile ID (without \"@\")"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Profile ID (contained in profile URL)"
+msgstr ""
+
+#: ../functions.php:429
+msgid "User's board URL"
+msgstr ""
+
+#: ../functions.php:430
+msgid "User's page URL"
+msgstr ""
+
+#: ../functions.php:431
+msgid "Tumblr's blog URL"
+msgstr ""
+
+#: ../functions.php:600
+msgid "News offset"
+msgstr ""
+
+#: ../functions.php:609
+msgid "Author"
+msgstr ""
+
+#: ../functions.php:614
+msgid "Hide news elements"
+msgstr ""
+
+#: ../functions.php:615 ../functions.php:714
+msgid "title"
+msgstr ""
+
+#: ../functions.php:615 ../functions.php:716
+msgid "link"
+msgstr ""
+
+#: ../functions.php:621
+msgid "Open links"
+msgstr ""
+
+#: ../functions.php:622
+msgid "in the same page"
+msgstr ""
+
+#: ../functions.php:622
+msgid "in a new page"
+msgstr ""
+
+#: ../functions.php:626
+msgid "Main image position <small>(expanded mode)</small>"
+msgstr ""
+
+#: ../functions.php:627
+msgid "inside news text"
+msgstr ""
+
+#: ../functions.php:627
+msgid "on left side"
+msgstr ""
+
+#: ../functions.php:631
+msgid "Image's container width <small>(expanded mode)</small>"
+msgstr ""
+
+#: ../functions.php:633
+msgid "one fourth's wrapper width"
+msgstr ""
+
+#: ../functions.php:634
+msgid "one third's wrapper width"
+msgstr ""
+
+#: ../functions.php:635
+msgid "half wrapper width"
+msgstr ""
+
+#: ../functions.php:636
+msgid "fullwidth"
+msgstr ""
+
+#: ../functions.php:642
+msgid ""
+"Image's container height <small>(in pixels or AUTO value - expanded mode)</"
+"small>"
+msgstr ""
+
+#: ../functions.php:647
+msgid "Set page's URL as sharing link?"
+msgstr ""
+
+#: ../functions.php:651
+msgid "Strip HTML tags <small>(JS selectors, comma divided)</small>"
+msgstr ""
+
+#: ../functions.php:656
+msgid "Remove HTML tags <small>(JS selectors, comma divided)</small>"
+msgstr ""
+
+#: ../functions.php:672
+msgid "News displayed per time"
+msgstr ""
+
+#: ../functions.php:690
+msgid "Box layout"
+msgstr ""
+
+#: ../functions.php:692
+msgid "horizontal"
+msgstr ""
+
+#: ../functions.php:693
+msgid "vertical"
+msgstr ""
+
+#: ../functions.php:698
+msgid "Boxed style?"
+msgstr ""
+
+#: ../functions.php:702
+msgid "Horizontal image mode?"
+msgstr ""
+
+#: ../functions.php:706
+msgid "Buttons position"
+msgstr ""
+
+#: ../functions.php:707
+msgid "bottom"
+msgstr ""
+
+#: ../functions.php:707
+msgid "top"
+msgstr ""
+
+#: ../functions.php:707
+msgid "side (only for vertical and boxed layout)"
+msgstr ""
+
+#: ../functions.php:711
+msgid "Hide elements"
+msgstr ""
+
+#: ../functions.php:713
+msgid "date"
+msgstr ""
+
+#: ../functions.php:715
+msgid "main image"
+msgstr ""
+
+#: ../functions.php:717
+msgid "social share"
+msgstr ""
+
+#: ../functions.php:718
+msgid "buttons bar"
+msgstr ""
+
+#: ../functions.php:725
+msgid "Side buttons over image?"
+msgstr ""
+
+#: ../functions.php:729
+msgid "Show news source logo? <small>(only vertical layout)</small>"
+msgstr ""
+
+#: ../functions.php:753
+msgid "News title behavior"
+msgstr ""
+
+#: ../functions.php:754 ../functions.php:759
+msgid "expand news"
+msgstr ""
+
+#: ../functions.php:754 ../functions.php:759
+msgid "no action"
+msgstr ""
+
+#: ../functions.php:754 ../functions.php:759
+msgid "redirect to news link"
+msgstr ""
+
+#: ../functions.php:758
+msgid "Main image behavior"
+msgstr ""
+
+#: ../functions.php:759
+msgid "trigger lightbox"
+msgstr ""
+
+#: ../functions.php:763 ../settings.php:217
+msgid "show guide"
+msgstr ""
+
+#: ../functions.php:768
+msgid "Use elapsed time?"
+msgstr ""
+
+#: ../functions.php:772
+msgid "Replace date with \"read more\" button?"
+msgstr ""
+
+#: ../functions.php:777
+msgid "Read more"
+msgstr ""
+
+#: ../functions.php:782
+msgid "Use lightbox?"
+msgstr ""
+
+#: ../functions.php:786
+msgid "use touchSwipe?"
+msgstr ""
+
+#: ../functions.php:792
+msgid "Expandable news?"
+msgstr ""
+
+#: ../functions.php:796
+msgid "Keep close button and side image visible on scroll?"
+msgstr ""
+
+#: ../functions.php:805
+msgid "Manage news images?"
+msgstr ""
+
+#: ../functions.php:826
+msgid "Navigation arrows position"
+msgstr ""
+
+#: ../functions.php:831
+msgid "Carousel mode?"
+msgstr ""
+
+#: ../functions.php:835
+msgid "Autoplay slideshow?"
+msgstr ""
+
+#: ../functions.php:857
+msgid "Pause slideshow on hover?"
+msgstr ""
+
+#: ../functions.php:861
+msgid "Slide all visible elements per time? <small>(only in slideshow)</small>"
+msgstr ""
+
+#: ../functions.php:865
+msgid "Resume autoplay after expanded news closing?"
+msgstr ""
+
+#: ../lc_update_notifier.php:222
+msgid "The following premium plugins have new versions available"
+msgstr ""
+
+#: ../lc_update_notifier.php:241
+msgid "You have version"
+msgstr ""
+
+#: ../lc_update_notifier.php:241
+msgid "installed"
+msgstr ""
+
+#: ../metaboxes.php:6
+msgid "Additional field"
+msgstr ""
+
+#: ../metaboxes.php:22
+msgid "News Link"
+msgstr ""
+
+#: ../metaboxes.php:25
+msgid "Must be a valid URL"
+msgstr ""
+
+#: ../metaboxes.php:30
+msgid "Attached media"
+msgstr ""
+
+#: ../metaboxes.php:33
+msgid ""
+"Can be a <strong>youtube or vimeo</strong> video URL as well as a "
+"<strong>soundcloud embed</strong> URL"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Sun"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Mon"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Tue"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Wed"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Thu"
+msgstr ""
+
+#: ../news-box.php:141
+msgid "Fri"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Sunday"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Monday"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Tuesday"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Wednesday"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Thursday"
+msgstr ""
+
+#: ../news-box.php:142
+msgid "Friday"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Jan"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Feb"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Mar"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Apr"
+msgstr ""
+
+#: ../news-box.php:143 ../news-box.php:144
+msgid "May"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Jun"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Aug"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Sep"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Oct"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Nov"
+msgstr ""
+
+#: ../news-box.php:143
+msgid "Dec"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "January"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "February"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "March"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "April"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "June"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "August"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "September"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "October"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "November"
+msgstr ""
+
+#: ../news-box.php:144
+msgid "December"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "ago"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "seconds"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "minute"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "minutes"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "hour"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "hours"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "day"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "days"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "week"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "weeks"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "month"
+msgstr ""
+
+#: ../news-box.php:145
+msgid "months"
+msgstr ""
+
+#: ../settings.php:18 ../settings.php:175
+msgid "Minimum news width (for horizontal layout)"
+msgstr ""
+
+#: ../settings.php:19 ../settings.php:184
+msgid "Minimum news height (for vertical layout)"
+msgstr ""
+
+#: ../settings.php:20 ../settings.php:193
+msgid "Minimum horizontal News Box width"
+msgstr ""
+
+#: ../settings.php:28
+msgid "Images max width"
+msgstr ""
+
+#: ../settings.php:29
+msgid "Images max height"
+msgstr ""
+
+#: ../settings.php:34
+msgid "Initial mode - title font size"
+msgstr ""
+
+#: ../settings.php:35
+msgid "Initial mode - text font size"
+msgstr ""
+
+#: ../settings.php:36
+msgid "Expanded mode - title font size"
+msgstr ""
+
+#: ../settings.php:37
+msgid "Expanded mode - text font size"
+msgstr ""
+
+#: ../settings.php:43 ../settings.php:436
+msgid "Image's margin"
+msgstr ""
+
+#: ../settings.php:44
+msgid "News margin"
+msgstr ""
+
+#: ../settings.php:45 ../settings.php:458
+msgid "Border width"
+msgstr ""
+
+#: ../settings.php:46
+msgid "Border radius"
+msgstr ""
+
+#: ../settings.php:48 ../settings.php:486
+msgid "Image's padding in expanded mode"
+msgstr ""
+
+#: ../settings.php:50 ../settings.php:501
+msgid "Background"
+msgstr ""
+
+#: ../settings.php:51
+msgid "Titles color"
+msgstr ""
+
+#: ../settings.php:52
+msgid "Text color"
+msgstr ""
+
+#: ../settings.php:53
+msgid "Links color"
+msgstr ""
+
+#: ../settings.php:54
+msgid "Border color - default state"
+msgstr ""
+
+#: ../settings.php:55
+msgid "Border color - hover state"
+msgstr ""
+
+#: ../settings.php:56
+msgid "Buttons color"
+msgstr ""
+
+#: ../settings.php:57
+msgid "Separator color"
+msgstr ""
+
+#: ../settings.php:59 ../settings.php:591
+msgid "Overlay icon"
+msgstr ""
+
+#: ../settings.php:60 ../settings.php:601
+msgid "Overlay background"
+msgstr ""
+
+#: ../settings.php:61 ../settings.php:614
+msgid "Date/'Read More' box - background"
+msgstr ""
+
+#: ../settings.php:62 ../settings.php:624
+msgid "'Read More' box - background on hover"
+msgstr ""
+
+#: ../settings.php:63 ../settings.php:634
+msgid "'Read More' box - text color on hover"
+msgstr ""
+
+#: ../settings.php:64
+msgid "Image's background - expanded mode"
+msgstr ""
+
+#: ../settings.php:65
+msgid "Image's border color - expanded mode"
+msgstr ""
+
+#: ../settings.php:67 ../settings.php:166 ../settings.php:672
+msgid "Custom CSS"
+msgstr ""
+
+#: ../settings.php:96
+msgid ""
+"An error occurred during dynamic CSS creation. The code will be used inline "
+"anyway"
+msgstr ""
+
+#: ../settings.php:101
+msgid "Options saved."
+msgstr ""
+
+#: ../settings.php:164
+msgid "Main Options"
+msgstr ""
+
+#: ../settings.php:165 ../settings.php:368
+msgid "Styling"
+msgstr ""
+
+#: ../settings.php:171
+msgid "Global settings"
+msgstr ""
+
+#: ../settings.php:181 ../settings.php:190
+msgid "Set the minimum width for a single news in horizontal layout"
+msgstr ""
+
+#: ../settings.php:199
+msgid ""
+"Set the minimum width for horizontal layout. Below, vertical layout will be "
+"applied"
+msgstr ""
+
+#: ../settings.php:203
+msgid "Shortened text suffix"
+msgstr ""
+
+#: ../settings.php:208
+msgid "Text added at the end of shotrened text"
+msgstr ""
+
+#: ../settings.php:212
+msgid "Default date format"
+msgstr ""
+
+#: ../settings.php:217
+msgid "News date composition - editable for each box"
+msgstr ""
+
+#: ../settings.php:222
+msgid "Lightbox integration?"
+msgstr ""
+
+#: ../settings.php:228
+msgid ""
+"If checked, enable lightbox integration for news images, youtube videos and "
+"soundcloud player"
+msgstr ""
+
+#: ../settings.php:232
+msgid "TouchSwipe integration?"
+msgstr ""
+
+#: ../settings.php:238
+msgid "If checked, enable swipe events"
+msgstr ""
+
+#: ../settings.php:243
+msgid "Images size control"
+msgstr ""
+
+#: ../settings.php:246
+msgid "Check image sizes?"
+msgstr ""
+
+#: ../settings.php:252
+msgid ""
+"If checked, resize images bigger than sizes below (improve loading speed)"
+msgstr ""
+
+#: ../settings.php:256
+msgid "Max sizes <small>(width x height)</small>"
+msgstr ""
+
+#: ../settings.php:262
+msgid "Maximum size for displayed images. Bigger will be resized"
+msgstr ""
+
+#: ../settings.php:267
+msgid "Various"
+msgstr ""
+
+#: ../settings.php:270
+msgid "Preview container"
+msgstr ""
+
+#: ../settings.php:272
+msgid "Select a page"
+msgstr ""
+
+#: ../settings.php:281
+msgid "Choose page to use as preview container"
+msgstr ""
+
+#: ../settings.php:284
+msgid "Use javascript in the head?"
+msgstr ""
+
+#: ../settings.php:290
+msgid ""
+"Put javascript in the website head, check it ONLY IF you notice some "
+"incompatibilities"
+msgstr ""
+
+#: ../settings.php:299
+msgid "Custom post types integration"
+msgstr ""
+
+#: ../settings.php:308
+msgid "Select a taxonomy for this custom post type"
+msgstr ""
+
+#: ../settings.php:328
+msgid "Font size control"
+msgstr ""
+
+#: ../settings.php:331
+msgid "Initial mode - title"
+msgstr ""
+
+#: ../settings.php:337
+msgid "Custom title font size on initial mode (default: 14px)"
+msgstr ""
+
+#: ../settings.php:340
+msgid "Initial mode - text"
+msgstr ""
+
+#: ../settings.php:346
+msgid "Custom text font size on initial mode (default: 12px)"
+msgstr ""
+
+#: ../settings.php:349
+msgid "Expanded mode - title"
+msgstr ""
+
+#: ../settings.php:355
+msgid "Custom title font size on expanded mode (default: 21px)"
+msgstr ""
+
+#: ../settings.php:358
+msgid "Expanded mode - text"
+msgstr ""
+
+#: ../settings.php:364
+msgid "Custom text font size on expanded mode (default: 13px)"
+msgstr ""
+
+#: ../settings.php:371
+msgid "Choose the main style"
+msgstr ""
+
+#: ../settings.php:373 ../settings.php:583
+msgid "Select a style"
+msgstr ""
+
+#: ../settings.php:384
+msgid "Choose the main style that will be applied to boxes"
+msgstr ""
+
+#: ../settings.php:388
+msgid "(main style preview)"
+msgstr ""
+
+#: ../settings.php:402
+msgid "Use custom style?"
+msgstr ""
+
+#: ../settings.php:408
+msgid "If checked, apply custom styling settings"
+msgstr ""
+
+#: ../settings.php:412
+msgid "Use custom CSS inline?"
+msgstr ""
+
+#: ../settings.php:418
+msgid "If checked, uses custom CSS inline (useful for multisite installations)"
+msgstr ""
+
+#: ../settings.php:428 ../settings.php:433
+msgid "Custom style - layout"
+msgstr ""
+
+#: ../settings.php:429
+msgid ""
+"Your server doesn't give the permissions to manage files. Please enable "
+"<em>allow_url_fopen</em> directive."
+msgstr ""
+
+#: ../settings.php:443
+msgid "Define space between box's edge and image in initial mode"
+msgstr ""
+
+#: ../settings.php:447
+msgid "News margin <small>(boxed style)</small>"
+msgstr ""
+
+#: ../settings.php:454
+msgid "News side space in boxed layout"
+msgstr ""
+
+#: ../settings.php:464
+msgid "Set boxes border width"
+msgstr ""
+
+#: ../settings.php:467
+msgid "Border Radius"
+msgstr ""
+
+#: ../settings.php:473
+msgid "Set boxes border radius"
+msgstr ""
+
+#: ../settings.php:476
+msgid "Use shadows?"
+msgstr ""
+
+#: ../settings.php:482
+msgid "If checked, apply shadows to boxes"
+msgstr ""
+
+#: ../settings.php:493
+msgid "Image's padding for managed images in expanded mode"
+msgstr ""
+
+#: ../settings.php:498
+msgid "Custom style - colors"
+msgstr ""
+
+#: ../settings.php:508
+msgid "Boxes background color"
+msgstr ""
+
+#: ../settings.php:511
+msgid "Titles"
+msgstr ""
+
+#: ../settings.php:518
+msgid "News title color"
+msgstr ""
+
+#: ../settings.php:521
+msgid "Text"
+msgstr ""
+
+#: ../settings.php:528
+msgid "News text color"
+msgstr ""
+
+#: ../settings.php:531
+msgid "Links"
+msgstr ""
+
+#: ../settings.php:538
+msgid "News links color"
+msgstr ""
+
+#: ../settings.php:541
+msgid "Border - default state"
+msgstr ""
+
+#: ../settings.php:548
+msgid "News border color on default state"
+msgstr ""
+
+#: ../settings.php:551
+msgid "Border - hover state"
+msgstr ""
+
+#: ../settings.php:558
+msgid "News border color on hover state"
+msgstr ""
+
+#: ../settings.php:561
+msgid "Buttons"
+msgstr ""
+
+#: ../settings.php:568
+msgid "News buttons color (social share, link, expand)"
+msgstr ""
+
+#: ../settings.php:571
+msgid "Buttons separator and title border"
+msgstr ""
+
+#: ../settings.php:581
+msgid "Loader style"
+msgstr ""
+
+#: ../settings.php:584
+msgid "light"
+msgstr ""
+
+#: ../settings.php:585
+msgid "dark"
+msgstr ""
+
+#: ../settings.php:588
+msgid "Choose the images preloader style"
+msgstr ""
+
+#: ../settings.php:647
+msgid "Image's background <small>(expanded mode)</small>"
+msgstr ""
+
+#: ../settings.php:654
+msgid "Set background color for managed images in expanded mode"
+msgstr ""
+
+#: ../settings.php:657
+msgid "Image's border color <small>(expanded mode)</small>"
+msgstr ""
+
+#: ../settings.php:664
+msgid "Set border color for managed images in expanded mode"
+msgstr ""
+
+#: ../settings.php:681
+msgid "Initial mode - Elements Legend"
+msgstr ""
+
+#: ../settings.php:713
+msgid "Expanded mode - Elements Legend"
+msgstr ""
+
+#: ../settings.php:735
+msgid "Update Options"
+msgstr ""
+
+#: ../tinymce_btn.php:51
+msgid "Insert"
+msgstr ""
